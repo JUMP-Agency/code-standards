@@ -1,6 +1,6 @@
 # JavaScript Code Style
 
-JavaScript can be your best friend or your worst enemy, the choice is yours. But we believe that JavaScript is our best friend because we treat it respect, invite it to dinner, and even watch it's dog from time to time. We tend to adhere to strict style and lint our code but keep that between us.
+JavaScript can be your best friend or your worst enemy, the choice is yours. But we believe that JavaScript is our best friend because we treat it respect, invite it to dinner, and even watch its dog from time to time. Also we tend to adhere to strict style and lint our code but keep that between us.
 
 ## Style
 
