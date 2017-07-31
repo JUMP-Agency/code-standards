@@ -9,21 +9,7 @@
 
 ### Accessibility
 
-__Images__
-  
-  - Always define an `alt` attribute with an appopriate description of the image, not simply the file name
-  - Always define `height` and `width`
-  - Use `Figure` and `Figcaption` where appropriate
-
-correct:
-```html
-  <img src="man-hat.jpg" alt="An elderly man wearing a black top hat smiling at the camera" height="250" width="100" />
-```
-
-incorrect:
-```html
-  <img src="man-hat.jpg" alt="Man hat" />
-```
+[a11y Style Guide](http://a11y-style-guide.com/style-guide/)
 
 ### Attributes
 
