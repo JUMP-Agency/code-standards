@@ -1,4 +1,4 @@
-# CSS/SCSS Code Style
+# CSS & SCSS Code Style
 
 There is nothing worse than maintaining another developers stylesheets who have no standards or organization. Our goal is to create consistency in style, architecture, and methodology.
 
