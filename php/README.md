@@ -4,7 +4,7 @@ What can we say about PHP...it owes its existence to WordPress. Sure, cool MVC f
 
 ## Style
 
-We follow what we consider to be the industry standard of [PSR-2](http://www.php-fig.org/psr/psr-2/)
+We follow what we consider to be the industry standard of [PSR-2](http://www.php-fig.org/psr/psr-2/) for PHP projects, and the [PHPCS WordPress Core ruleset](https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards) for WordPress themes.
 
 ## Linting
 
