@@ -1,6 +1,6 @@
 # Code Standards
 
-This is a set of code style guides, rules, and helpful tools to be used that help enforce code quality and consistency within [The Jump Agency](http://thejumpagency.com).
+This is a set of code style guides, rules, and helpful tools to be used that help enforce code quality and consistency within [Leap Spark Agency](http://leapsparkagency.com).
 
 ## Usage/Installation
 
